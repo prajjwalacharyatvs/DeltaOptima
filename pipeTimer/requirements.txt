@@ -1,0 +1,7 @@
+pytest
+flake8
+black
+requests
+python-dotenv
+matplotlib
+reportlab

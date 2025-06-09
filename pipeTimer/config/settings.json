@@ -1,0 +1,4 @@
+{
+    "log_level": "INFO",
+    "default_output_path": "output/"
+}
